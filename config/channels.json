@@ -7,10 +7,13 @@
   },
   "overrides": {
     "tv:skyatlantic": {
-      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/skyatlantic.svg"
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/skyatlantic.png"
     },
     "tv:skycrime": {
-      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/skycrime.svg"
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/skycrime.png"
+    },
+    "tv:skycinemauno": {
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/skycinemauno.png"
     },
     "tv:sportitalia": {
       "name": "Sportitalia",
