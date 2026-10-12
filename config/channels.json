@@ -6,6 +6,12 @@
     "fields": "Puoi cambiare name, poster, logo, background e description. Se elimini un campo viene usato l'originale TViX."
   },
   "overrides": {
+    "tv:skyatlantic": {
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/skyatlantic.svg"
+    },
+    "tv:skycrime": {
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/skycrime.svg"
+    },
     "tv:sportitalia": {
       "name": "Sportitalia",
       "poster": "https://play-lh.googleusercontent.com/8c3J6DVhDFerEVSkNIv1Pl4eQ1D1jqLqju23C7HkHKN2Si6cNU5ATmKN5Zmo6Q5eRlfjGcTW1kkm5twzD2Gdlg",
