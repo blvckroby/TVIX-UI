@@ -54,6 +54,26 @@
       "name": "Sky Collection",
       "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/skycollection.png"
     },
+    "tv:skyinvestigation": {
+      "name": "Sky Investigation",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/skyinvestigation.png"
+    },
+    "tv:skydocumentaries": {
+      "name": "Sky Documentaries",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/skydocumentaries.png"
+    },
+    "tv:skynature": {
+      "name": "Sky Nature",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/skynature.png"
+    },
+    "tv:history": {
+      "name": "History Channel",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/history.png"
+    },
+    "tv:skyadventure": {
+      "name": "Sky Adventure",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/skyadventure.png"
+    },
     "tv:sportitalia": {
       "name": "Sportitalia",
       "poster": "https://play-lh.googleusercontent.com/8c3J6DVhDFerEVSkNIv1Pl4eQ1D1jqLqju23C7HkHKN2Si6cNU5ATmKN5Zmo6Q5eRlfjGcTW1kkm5twzD2Gdlg",
