@@ -1,0 +1,139 @@
+{
+  "_instructions": {
+    "match": "Le chiavi sono gli ID reali TViX. Modifica solo i canali che vuoi personalizzare.",
+    "square": "posterShape=square viene applicato globalmente dal wrapper.",
+    "local_assets": "Puoi usare /logos/nome.png e /backgrounds/nome.jpg mettendo i file nelle cartelle public corrispondenti.",
+    "fields": "Puoi cambiare name, poster, logo, background e description. Se elimini un campo viene usato l'originale TViX."
+  },
+  "overrides": {
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Sky_Sport_Basket_-_Logo_2026.svg",
+      "background": "https://sport.sky.it/assets/images/e53217b4ad11281f287961e229497ab4c019a89c/skysport/it/nba/2025/10/02/nba-sky-italia/nba_susky.jpg"
+    },
+    "tv:skysportgolf": {
+      "name": "Sky Sport Golf",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/skygolf.png",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/Sky_Sport_Golf_-_Logo_2026.svg",
+      "background": "https://sport.sky.it/assets/images/23b2ad748027f29ee24fe146599793d05a44ec8f/skysport/it/altri-sport/golf/2026/07/15/golf-the-open-championship-2026-su-sky/open_golf.jpg"
+    },
+    "tv:eurosport1": {
+      "name": "Eurosport 1",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/eurosport1.png",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/9/93/Eurosport_1_%28II%29.svg",
+      "background": "https://image.discovery.indazn.com/ca/v2/ca/image?id=1b7lkqmn498j81e73n1yrmqx2c_image-header_pIt_1661948765000"
+    },
+    "tv:eurosport2": {
+      "name": "Eurosport 2",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/eurosport2.png",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/d/da/Eurosport_2_%28II%29.svg",
+      "background": "https://image.discovery.indazn.com/ca/v2/ca/image?id=s5jssu34hgh31vemb9znxfq2z_image-header_pIt_1661948805000"
+    },
+    "tv:eurosport3": {
+      "name": "Eurosport 3",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/eurosport3.png",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Eurosport_3_%28II%29.svg",
+      "background": "https://image.discovery.indazn.com/ca/v2/ca/image?id=dj5y80tag2lz1wwquvj5fg7y9_image-header_pIt_1764170686000"
+    },
+    "tv:eurosport4": {
+      "name": "Eurosport 4",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/eurosport4.png",
+      "logo": "https://raw.githubusercontent.com/qwertyuiop8899/logo/main/Eurosport_4.svg",
+      "background": "https://image.discovery.indazn.com/ca/v2/ca/image?id=1k5xsn9kwz6b816w3j9ec7snxo_image-header_pIt_1764170751000"
+    },
+    "tv:eurosport5": {
+      "name": "Eurosport 5",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/eurosport5.png",
+      "logo": "https://raw.githubusercontent.com/qwertyuiop8899/logo/main/Eurosport_5.png",
+      "background": "https://image.discovery.indazn.com/ca/v2/ca/image?id=acc08vkaas1k1v8b0chty5832_image-header_pIt_1764170796000"
+    },
+    "tv:eurosport6": {
+      "name": "Eurosport 6",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/eurosport6.png",
+      "logo": "https://raw.githubusercontent.com/qwertyuiop8899/logo/main/Eurosport_6.png",
+      "background": "https://image.discovery.indazn.com/ca/v2/ca/image?id=gp2utgzli2gn1dyk6egoy3hnc_image-header_pIt_1764170844000"
+    },
+    "tv:skysportlegend": {
+      "name": "Sky Sport Legend",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/skysportlegend.png",
+      "logo": "https://pixel.disco.nowtv.it/logo/skychb_578_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT",
+      "background": "https://raw.githubusercontent.com/qwertyuiop8899/logo/main/generated-covers/landscape/sky-sport-legend.jpg"
+    },
+    "tv:skysportmix": {
+      "name": "Sky Sport Mix",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/skysportmix.png",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Sky_Sport_Mix_-_Logo_2026.svg",
+      "background": "https://raw.githubusercontent.com/qwertyuiop8899/logo/main/generated-covers/landscape/sky-sport-mix.jpg"
+    },
+    "tv:skysport251": {
+      "name": "Sky Sport 251",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/skysport251.png",
+      "logo": "https://i.imgur.com/ge0fdw9.png",
+      "background": "https://raw.githubusercontent.com/qwertyuiop8899/logo/main/generated-covers/landscape/sky-sport-251.jpg"
+    },
+    "tv:skysport252": {
+      "name": "Sky Sport 252",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/skysport252.png",
+      "logo": "https://i.imgur.com/z9CsC3U.png",
+      "background": "https://raw.githubusercontent.com/qwertyuiop8899/logo/main/generated-covers/landscape/sky-sport-252.jpg"
+    },
+    "tv:skysport253": {
+      "name": "Sky Sport 253",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/skysport253.png",
+      "logo": "https://i.imgur.com/MdNKRWQ.png",
+      "background": "https://raw.githubusercontent.com/qwertyuiop8899/logo/main/generated-covers/landscape/sky-sport-253.jpg"
+    },
+    "tv:skysport254": {
+      "name": "Sky Sport 254",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/skysport254.png",
+      "logo": "https://i.imgur.com/G0xjSIe.png",
+      "background": "https://raw.githubusercontent.com/qwertyuiop8899/logo/main/generated-covers/landscape/sky-sport-254.jpg"
+    },
+    "tv:skysport255": {
+      "name": "Sky Sport 255",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/skysport255.png",
+      "logo": "https://i.imgur.com/C2BKXje.png",
+      "background": "https://raw.githubusercontent.com/qwertyuiop8899/logo/main/generated-covers/landscape/sky-sport-255.jpg"
+    },
+    "tv:skysport256": {
+      "name": "Sky Sport 256",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/skysport256.png",
+      "logo": "https://i.imgur.com/q2WAtgI.png",
+      "background": "https://raw.githubusercontent.com/qwertyuiop8899/logo/main/generated-covers/landscape/sky-sport-256.jpg"
+    },
+    "tv:skysport257": {
+      "name": "Sky Sport 257",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/skysport257.png",
+      "logo": "https://i.imgur.com/o9qzl9U.png",
+      "background": "https://raw.githubusercontent.com/qwertyuiop8899/logo/main/generated-covers/landscape/sky-sport-257.jpg"
+    },
+    "tv:skysport258": {
+      "name": "Sky Sport 258",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/skysport258.png",
+      "logo": "https://i.imgur.com/kC1a7oJ.png",
+      "background": "https://raw.githubusercontent.com/qwertyuiop8899/logo/main/generated-covers/landscape/sky-sport-258.jpg"
+    },
+    "tv:skysport259": {
+      "name": "Sky Sport 259",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/skysport259.png",
+      "logo": "https://i.imgur.com/2kMwtFK.png",
+      "background": "https://raw.githubusercontent.com/qwertyuiop8899/logo/main/generated-covers/landscape/sky-sport-259.jpg"
+    },
+    "tv:dazn1": {
+      "name": "Dazn 1",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/dazn1.png",
+      "logo": "https://i.pinimg.com/736x/7e/78/4b/7e784b0cacc3ed5732b937ad8c466a77.jpg",
+      "background": "https://image.discovery.indazn.com/ca/v2/ca/image?id=4hqcjx5zv91f1bdx71io4bnrl_image-header_pIt_1754467959000&quality=50"
+    },
+    "tv:dazn2": {
+      "name": "Dazn 2",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/dazn2.png",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Tv-channel-%E2%94%82-dazn-2.png",
+      "background": "https://image.discovery.indazn.com/ca/v3/ca/none/1ni1lpwjtnxmr1xklfoptrt2mz_image-header_pDach_1723628653000/fit/center/top/none/100/0/0/auto/image"
+    },
+    "tv:dazn": {
+      "name": "Dazn",
+      "poster": "https://raw.githubusercontent.com/qwertyuiop8899/logo/main/generated-covers/portrait/dazn.jpg",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Tv-channel-%E2%94%82-dazn-1.png",
+      "background": "https://raw.githubusercontent.com/qwertyuiop8899/logo/main/generated-covers/landscape/dazn.jpg"
+
+  }
+}
