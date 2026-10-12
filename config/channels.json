@@ -280,7 +280,7 @@
     },
     "tv:rete4": {
       "name": "Rete 4",
-      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/mediaset/rete4.png"
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/mediaset/rete4.png",
       "background": "https://img-prod-api2.mediasetplay.mediaset.it/api/images/mp/v5/ita/FD00000000440762/image_keyframe_poster/1920/1080?r=1770438749000"
     },
     "tv:canale5": {
