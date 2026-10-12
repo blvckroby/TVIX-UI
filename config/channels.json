@@ -6,6 +6,58 @@
     "fields": "Puoi cambiare name, poster, logo, background e description. Se elimini un campo viene usato l'originale TViX."
   },
   "overrides": {
+    "tv:rai1": {
+  "name": "Rai 1",
+  "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/rai1.png"
+  },
+  "tv:rai2": {
+    "name": "Rai 2",
+    "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/rai2.png"
+  },
+  "tv:rai3": {
+    "name": "Rai 3",
+    "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/rai3.png"
+  },
+  "tv:rai4": {
+    "name": "Rai 4",
+    "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/rai4.png"
+  },
+  "tv:rai5": {
+    "name": "Rai 5",
+    "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/rai5.png"
+  },
+  "tv:raimovie": {
+    "name": "Rai Movie",
+    "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/raimovie.png"
+  },
+  "tv:raipremium": {
+    "name": "Rai Premium",
+    "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/raipremium.png"
+  },
+  "tv:raigulp": {
+    "name": "Rai Gulp",
+    "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/raigulp.png"
+  },
+  "tv:raiyoyo": {
+    "name": "Rai Yoyo",
+    "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/raiyoyo.png"
+  },
+  "tv:raistoria": {
+    "name": "Rai Storia",
+    "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/raistoria.png"
+  },
+  "tv:raiscuola": {
+    "name": "Italiana",
+    "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/raiscuola.png"
+  },
+  "tv:raisport": {
+    "name": "Rai Sport",
+    "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/raisport.png"
+  },
+  "tv:rai4k": {
+    "name": "Rai 4K",
+    "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/rai4k.png"
+  },
     "tv:tv8": {
       "name": "TV8",
       "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/tv8.png"
