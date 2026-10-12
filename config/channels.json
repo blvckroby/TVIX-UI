@@ -290,8 +290,8 @@
       "name": "Italia 1",
       "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/mediaset/italia1.png"
     },
-    "tv:20": {
-      "name": "20",
+    "tv:20mediaset": {
+      "name": "20 Mediaset",
       "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/mediaset/20.png"
     },
     "tv:iris": {
@@ -301,6 +301,22 @@
     "tv:twentyseven": {
       "name": "Twenty Seven",
       "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/mediaset/twentyseven.png"
+    },
+    "tv:la5": {
+      "name": "La 5",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/mediaset/la5.png"
+    },
+    "tv:cine34": {
+      "name": "Cine 34",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/mediaset/cine34.png"
+    },
+    "tv:focus": {
+      "name": "Focus",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/mediaset/focus.png"
+    },
+    "tv:itali2": {
+      "name": "Italia 2",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/mediaset/italia2.png"
     }
   }
 }
