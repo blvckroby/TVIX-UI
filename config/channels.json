@@ -281,18 +281,23 @@
     "tv:rete4": {
       "name": "Rete 4",
       "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/mediaset/rete4.png"
+      "background": "https://img-prod-api2.mediasetplay.mediaset.it/api/images/mp/v5/ita/FD00000000440762/image_keyframe_poster/1920/1080?r=1770438749000"
     },
     "tv:canale5": {
       "name": "Canale 5",
-      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/mediaset/canale5.png"
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/mediaset/canale5.png",
+      "background": "https://img-prod-api2.mediasetplay.mediaset.it/api/images/mp/v5/ita/F312970801531C08/image_keyframe_poster/1920/1080?r=1776234245000"
     },
     "tv:italia1": {
       "name": "Italia 1",
-      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/mediaset/italia1.png"
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/mediaset/italia1.png",
+      "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Italia_1_logo.svg/330px-Italia_1_logo.svg.png",
+      "background": "https://img-prod-api2.mediasetplay.mediaset.it/api/images/mp/v5/ita/FD00000000301029/image_header_poster/1920/1080?r=1770435375000"
     },
     "tv:20mediaset": {
       "name": "20 Mediaset",
-      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/mediaset/20.png"
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/mediaset/20.png",
+      "background": "https://i.vimeocdn.com/video/1304183644-8de0079824e5f089be17fd5438d96ffadd4de77a721987125?f=webp"
     },
     "tv:iris": {
       "name": "Iris",
@@ -300,7 +305,8 @@
     },
     "tv:twentyseven": {
       "name": "Twenty Seven",
-      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/mediaset/twentyseven.png"
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/mediaset/twentyseven.png",
+      "background": "https://i.ytimg.com/vi/0mum6cApC2Q/maxresdefault.jpg"
     },
     "tv:la5": {
       "name": "La 5",
