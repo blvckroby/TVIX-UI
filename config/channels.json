@@ -18,9 +18,33 @@
       "name": "Sky TG24",
       "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/skytg24.png"
     },
+    "tv:skycinemauno": {
+      "name": "Sky Cinema Uno",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/skycinemauno.png"
+    },
+    "tv:skycinemastories": {
+      "name": "Sky Cinema Stories",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/skycinemastories.png"
+    },
+    "tv:skycinemacomedy": {
+      "name": "Sky Cinema Comedy",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/skycinemacomedy.png"
+    },
+    "tv:skycinemaaction": {
+      "name": "Sky Cinema Action",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/skycinemacomedy.png"
+    },
     "tv:skyatlantic": {
       "name": "Sky Atlantic",
       "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/skyatlantic.png"
+    },
+    "tv:skyuno": {
+      "name": "Sky Uno",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/skyuno.png"
+    },
+    "tv:skyserie": {
+      "name": "Sky Serie",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/skyserie.png"
     },
     "tv:skycrime": {
       "name": "Sky Crime",
@@ -29,10 +53,6 @@
     "tv:skycollection": {
       "name": "Sky Collection",
       "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/skycollection.png"
-    },
-    "tv:skycinemauno": {
-      "name": "Sky Cinema Uno",
-      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/skycinemauno.png"
     },
     "tv:sportitalia": {
       "name": "Sportitalia",
