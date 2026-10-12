@@ -277,6 +277,30 @@
       "poster": "https://raw.githubusercontent.com/qwertyuiop8899/logo/main/generated-covers/portrait/dazn.jpg",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Tv-channel-%E2%94%82-dazn-1.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
       "background": "https://raw.githubusercontent.com/qwertyuiop8899/logo/main/generated-covers/landscape/dazn.jpg"
+    },
+    "tv:rete4": {
+      "name": "Rete 4",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/mediaset/rete4.png"
+    },
+    "tv:canale5": {
+      "name": "Canale 5",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/mediaset/canale5.png"
+    },
+    "tv:italia1": {
+      "name": "Italia 1",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/mediaset/italia1.png"
+    },
+    "tv:20": {
+      "name": "20",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/mediaset/20.png"
+    },
+    "tv:iris": {
+      "name": "Iris",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/mediaset/iris.png"
+    },
+    "tv:twentyseven": {
+      "name": "Twenty Seven",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/mediaset/twentyseven.png"
     }
   }
 }
