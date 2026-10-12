@@ -314,6 +314,30 @@
       "name": "Focus",
       "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/mediaset/focus.png"
     },
+    "tv:giallo": {
+      "name": "Giallo",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/mediaset/giallo.png"
+    },
+    "tv:topcrime": {
+      "name": "topcrime",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/mediaset/topcrime.png"
+    },
+    "tv:boing": {
+      "name": "boing",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/mediaset/boing.png"
+    },
+    "tv:italia2": {
+      "name": "Italia 2",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/mediaset/italia2.png"
+    },
+    "tv:tgcom24": {
+      "name": "TGCOM 24",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/mediaset/tgcom24.png"
+    },
+    "tv:mediasetextra": {
+      "name": "Mediaset Extra 2",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/mediaset/mediasetextra.png"
+    },
     "tv:itali2": {
       "name": "Italia 2",
       "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/mediaset/italia2.png"
