@@ -6,13 +6,32 @@
     "fields": "Puoi cambiare name, poster, logo, background e description. Se elimini un campo viene usato l'originale TViX."
   },
   "overrides": {
+    "tv:tv8": {
+      "name": "TV8",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/tv8.png"
+    },
+    "tv:cielo": {
+      "name": "Cielo",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/cielo.png"
+    },
+    "tv:skytg24": {
+      "name": "Sky TG24",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/skytg24.png"
+    },
     "tv:skyatlantic": {
+      "name": "Sky Atlantic",
       "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/skyatlantic.png"
     },
     "tv:skycrime": {
+      "name": "Sky Crime",
       "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/skycrime.png"
     },
+    "tv:skycollection": {
+      "name": "Sky Collection",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/skycollection.png"
+    },
     "tv:skycinemauno": {
+      "name": "Sky Cinema Uno",
       "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/skycinemauno.png"
     },
     "tv:sportitalia": {
