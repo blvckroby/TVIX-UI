@@ -84,7 +84,8 @@
     },
     "tv:skycinemacomedy": {
       "name": "Sky Cinema Comedy",
-      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/skycinemacomedy.png"
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/skycinemacomedy.png",
+      "background": "https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/bltc787824b5b2e1821/699cc64548bd410008f0a126/Sky_Comedy_-_Desktop.png"
     },
     "tv:skycinemaaction": {
       "name": "Sky Cinema Action",
@@ -112,7 +113,8 @@
     },
     "tv:skyatlantic": {
       "name": "Sky Atlantic",
-      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/skyatlantic.png"
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/skyatlantic.png",
+      "background": "https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/blt17c0afad26a0c0eb/699cc6438923a0000849909c/Sky_Atlantic_-_Desktop.png"
     },
     "tv:skyuno": {
       "name": "Sky Uno",
@@ -124,7 +126,8 @@
     },
     "tv:skycrime": {
       "name": "Sky Crime",
-      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/skycrime.png"
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/skycrime.png",
+      "background": "https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/bltbf224abf656082c0/699cc643ead2f50008c96ac8/Sky_Crime_-_Desktop.png"
     },
     "tv:skycollection": {
       "name": "Sky Collection",
@@ -148,7 +151,8 @@
     },
     "tv:skyarte": {
       "name": "Sky Arte",
-      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/skyarte.png"
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/skyarte.png",
+      "background": "https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/blt8847add8ea4a7968/699cc640db043d000825473a/Sky_Arts_-_Desktop.png"
     },
     "tv:MTV": {
       "name": "MTV",
