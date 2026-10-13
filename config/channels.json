@@ -419,6 +419,30 @@
     "tv:itali2": {
       "name": "Italia 2",
       "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/mediaset/italia2.png"
+    },
+    "tv:nove": {
+      "name": "Nove",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/nove.png"
+    },
+    "tv:realtime": {
+      "name": "Real Time",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/realtime.png"
+    },
+    "tv:foodnetwork": {
+      "name": "Food Network",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/foodnetwork.png"
+    },
+    "tv:dmax": {
+      "name": "DMAX",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/dmax.png"
+    },
+    "tv:hgtv": {
+      "name": "HGTV - Home&Garden",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/hgtv.png"
+    },
+    "tv:motortrend": {
+      "name": "Motor Trend",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/mediaset/motortrend.png"
     }
   }
 }
