@@ -84,7 +84,27 @@
     },
     "tv:skycinemaaction": {
       "name": "Sky Cinema Action",
-      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/skycinemacomedy.png"
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/skycinemaaction.png"
+    },
+    "tv:skycinemafamily": {
+      "name": "Sky Cinema Family",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/skycinemafamily.png"
+    },
+    "tv:skycinemacollection": {
+      "name": "Sky Cinema Collection",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/skycinemacollection.png"
+    },
+    "tv:skycinemadrama": {
+      "name": "Sky Cinema Drama",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/skycinemadrama.png"
+    },
+    "tv:skycinemasuspense": {
+      "name": "Sky Cinema Suspense",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/skycinemasuspense.png"
+    },
+    "tv:skycinemaromance": {
+      "name": "Sky Cinema Romance",
+      "poster": "https://raw.githubusercontent.com/blvckroby/MusicDB/main/loghi/tvix/sky/skycinemaromance.png"
     },
     "tv:skyatlantic": {
       "name": "Sky Atlantic",
